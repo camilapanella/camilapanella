@@ -2,7 +2,8 @@
 -Mi nombre es **Camila Panella**, de Argentina 💻
 
 -En agosto del 2022 ingresé en el bootcamp de full-stack development de la academia Henry, y me gradué en diciembre del 2022. 🕑 📚 📅
-En mi proyecto final realizamos desde cero una pequeña red social para las orquestas de latinoamerica, con la posibilidad de donar dinero a cada orquesta para ayudarlas, esta experiencia no solo profundizó los conocimientos adquiridos en el bootcamp y otros que decidimos integrar, sino que además me hizo notar que disfruto mucho del trabajo en equipo. ✊ ✊
+
+-En mi proyecto final realizamos desde cero una pequeña red social para las orquestas de latinoamerica, con la posibilidad de donar dinero a cada orquesta para ayudarlas, esta experiencia no solo profundizó los conocimientos adquiridos en el bootcamp y otros que decidimos integrar, sino que además me hizo notar que disfruto mucho del trabajo en equipo. ✊ ✊
 
 -En este momento me encuentro buscando mi primer trabajo IT. 💥 💥 💥
 
