@@ -11,7 +11,9 @@
 
 -Tengo un nivel de ingles c2 proficient. ⚡
 
--Si te interesa saber más sobre mi te dejo mi Perfil de Linkedin: https://www.linkedin.com/in/camila-panella-8150aa251/ ⭐
+-Si te interesa saber más sobre mi te dejo:
+-mi Perfil de Linkedin: https://www.linkedin.com/in/camila-panella-8150aa251/ ⭐
+-mi email: ca10_mimi@hotmail.com ⭐
 
 <!--
 **camilapanella/camilapanella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
