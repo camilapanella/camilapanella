@@ -11,7 +11,7 @@
 
 -Tengo un nivel de ingles c2 proficient. ⚡
 
-##Si te interesa saber más sobre mi te dejo:
+## Si te interesa saber más sobre mi te dejo:
 -mi Perfil de Linkedin: https://www.linkedin.com/in/camila-panella-8150aa251/ ⭐
 -mi email: ca10_mimi@hotmail.com ⭐
 
