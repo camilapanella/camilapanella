@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/camila-panella-8150aa251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/camila-panella-8150aa251/" height="30" width="40" /></a>
 </p> 
 
--Email: ca10_mimi@hotmail.com ⭐
+-Email: camilapanella@outlook.com ⭐
 
 <!--
 **camilapanella/camilapanella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
